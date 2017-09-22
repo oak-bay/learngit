@@ -2,6 +2,7 @@
 
 
 def main():
+	print "change for the first time"
 	pass
 
 
